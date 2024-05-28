@@ -88,3 +88,19 @@ I use solidworks as my 3D model software, I just make it on its side and extrude
 ![solidworks view](pictures/solidworks/sketch2.png)
 
 ![solidworks view](pictures/solidworks/sketch3.png)
+
+# Upload sites
+
+[Printables](https://www.printables.com/model/894273-joycon-to-switch-mount)
+
+[Thingiverse](https://www.thingiverse.com/thing:6639528)
+
+[Thangs](https://thangs.com/designer/Airplanegobrr/3d-model/joyconSwitchMount.SLDPRT-1068390)
+
+Note: As my first time uploading, these sites are all 50/50.
+
+Why can't I just link a Github link??
+
+And Printables. REALLY? NO MARKDOWN RENDERING????
+
+If you find MY MODEL andwhere without credits please let me know!
