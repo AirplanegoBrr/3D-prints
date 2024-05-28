@@ -10,7 +10,7 @@
 (I use solidworks 2022, 2022+ should be able to open/convert the file)
 
 
-[Github link](https://github.com/AirplanegoBrr/3D-prints/joyconToSwitch)
+[Github link](https://github.com/AirplanegoBrr/3D-prints/tree/main/joyconToSwitch)
 
 (Github has more info and will show you step-by-step intructions)
 
